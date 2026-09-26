@@ -41,7 +41,7 @@ export default function Hero() {
 
         <div className="hero-panel">
           <div className="hero-avatar" aria-hidden="true">
-            <img src='src\images\PerfilFoto.PNG'></img>
+            <img src='src\images\Perfilfoto.PNG'></img>
           </div>
           <ul className="hero-stats">
             {stats.map((stat) => (
