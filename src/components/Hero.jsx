@@ -1,6 +1,6 @@
 import { ArrowUpRight, MapPin } from 'lucide-react'
 import { profile, stats } from '../data'
-import miFoto from '../images/Perfilfoto.PNG'
+import miFoto from '../images/Perfilfoto.png'
 
 export default function Hero() {
   return (
