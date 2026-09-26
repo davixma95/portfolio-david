@@ -1,5 +1,6 @@
 import { ArrowUpRight, MapPin } from 'lucide-react'
 import { profile, stats } from '../data'
+import miFoto from '../images/Perfilfoto.PNG'
 
 export default function Hero() {
   return (
@@ -41,7 +42,7 @@ export default function Hero() {
 
         <div className="hero-panel">
           <div className="hero-avatar" aria-hidden="true">
-            <img src='src\images\Perfilfoto.PNG'></img>
+            <img src={miFoto} alt="David Manuel García"></img>
           </div>
           <ul className="hero-stats">
             {stats.map((stat) => (
