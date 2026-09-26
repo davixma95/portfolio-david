@@ -19,9 +19,11 @@ export default function Hero() {
           </h1>
 
           <p className="hero-lede">
-            Construyo aplicaciones web de extremo a extremo — desde el
-            backend en PHP y Node.js hasta interfaces en React — cuidando
-            tanto la estabilidad en producción como la experiencia de uso.
+            Construyo aplicaciones web desde el
+            backend en PHP o Node.js hasta interfaces en React y javascript(ES6) cuidando
+            tanto la estabilidad y la escalabilidad del código.
+            Vamos que no hago tickets por hacer sino que trato de entender cada tarea para poder
+            aportar la mejor experiencia al usuario/cliente.
           </p>
 
           <div className="hero-meta">
