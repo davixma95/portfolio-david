@@ -12,7 +12,7 @@ export const profile = {
   phone: '+34 672 15 33 77',
   // Sustituye por tus enlaces reales antes de publicar
   github: 'https://github.com/davixma95/',
-  paginaWebGit: 'https://github.com/davixma95/portfolio',
+  paginaWebGit: 'https://github.com/davixma95/Portfolio',
   linkedin: 'https://www.linkedin.com/in/david-manuel-garcia-jimenez-50334b20b/',
   availability: 'Disponible para nuevas oportunidades',
   bio: `Soy una persona joven, llena de energía para integrarme en un equipo
